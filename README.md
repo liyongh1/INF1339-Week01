@@ -1,2 +1,2 @@
 # LYH-INF1339-Week01
-Demo repository for INF1339 A2
+Repository for INF1339 Week 1 Assignments
